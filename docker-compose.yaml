@@ -10,7 +10,7 @@ services:
       CLUSTER_ID: '1L6g7nGhU-eAKfL--X25wo'
       KAFKA_NODE_ID: 1
 
-      KAFKA_PROCCESS_ROLES: broker, controller
+      KAFKA_PROCESS_ROLES: broker, controller
       KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
 
