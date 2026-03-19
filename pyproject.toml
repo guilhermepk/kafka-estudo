@@ -1,0 +1,7 @@
+[project]
+name = "kafka-estudo"
+version = "0.1.0"
+description = "A project to study Kafka"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
